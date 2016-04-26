@@ -1,0 +1,6 @@
+twitter.oauth {
+  consumer-key = TODO
+  consumer-secret = TODO
+  access-token = TODO
+  access-token-secret = TODO
+}
